@@ -1,0 +1,92 @@
+{
+    "loaders": [
+        {
+            "id": "FLUBBA EXTERNAL + SPOOFER",
+            "name": "FLUBBA EXTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOpti.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/public.png",
+            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-flubba-external-spoofer",
+            
+            "description": "The most lightweight External chair on the market, with insane ESP performance. Perfect for closet cheating",
+            "guide": "1. Lancez le loader en mode administrateur\n2. Activez l'option spoof si nécessaire\n3. Sélectionnez vos paramètres préférés\n4. Appuyez sur LAUNCH et démarrez votre jeu",
+            "specs": "Windows 10/11 (24H2 not supported), Controller and Mouse & Keyboard",
+            "videoUrl": "https://www.youtube.com/embed/VOTRE_ID_VIDEO",
+            "badges": ["External", "Spoofer", "BO6", "Chair"]
+        },
+        {
+            "id": "BO6-MW3 TTXS-T3",
+            "name": "BO6-MW3 TTXS-T3",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "Updating",
+            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/img/public.png",
+            "productUrl": "https://iriscorp.mysellauth.com/product/ttxs-t3-external-chair",
+            
+            "description": "Solution TTXS-T3 multi-jeux compatible avec BO6 et MW3. Inclut des options avancées de chair et des fonctionnalités de dernière génération.",
+            "guide": "1. Désactivez votre antivirus\n2. Exécutez le loader en tant qu'administrateur\n3. Choisissez votre jeu (BO6 ou MW3)\n4. Configurez vos options et lancez",
+            "specs": "Windows 10/11, GPU GTX 1060 ou supérieur, 16GB RAM recommandé",
+            "videoUrl": "https://www.youtube.com/embed/VOTRE_ID_VIDEO2",
+            "badges": ["External", "MW3", "BO6", "Chair", "Multi-Game"]
+        },
+        {
+            "id": "PROGRESS",
+            "name": "BO6 EXTERNAL PROGRESS",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair",
+            
+            "description": "External chair pour BO6 avec options de progression avancées. Mise à jour régulière pour garantir la compatibilité avec les derniers patchs.",
+            "guide": "1. Lancez en mode administrateur\n2. Attendez la synchronisation complète\n3. Configurez vos options Progress\n4. Lancez le jeu normalement",
+            "specs": "Windows 10/11, DirectX 12, RAM 8GB+, CPU i5/Ryzen 5 ou mieux",
+            "videoUrl": "https://www.youtube.com/embed/VOTRE_ID_VIDEO3",
+            "badges": ["External", "Progress", "BO6"]
+        },
+        {
+            "id": "ZENITH EXTERNAL + SPOOFER",
+            "name": "ZAYDE LOADER",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ua.png",
+            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-flubba-external-spoofer",
+            
+            "description": "Un loader externe puissant pour BO6 avec fonctionnalités spoof intégrées. Compatible avec les dernières mises à jour du jeu.",
+            "guide": "1. Lancez le loader en mode administrateur\n2. Activez l'option spoof si nécessaire\n3. Sélectionnez vos paramètres préférés\n4. Appuyez sur LAUNCH et démarrez votre jeu",
+            "specs": "Windows 10/11, CPU i5 minimum, 8GB RAM, DirectX 12 compatible",
+            "videoUrl": "https://www.youtube.com/embed/VOTRE_ID_VIDEO",
+            "badges": ["External", "Spoofer", "BO6", "Chair"]
+        },
+        {
+            "id": "BO6 TTXS-T3",
+            "name": "BO6-MW3 TTXS-T3",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "offline",
+            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/img/public.png",
+            "productUrl": "https://iriscorp.mysellauth.com/product/ttxs-t3-external-chair",
+            
+            "description": "Solution TTXS-T3 multi-jeux compatible avec BO6 et MW3. Inclut des options avancées de chair et des fonctionnalités de dernière génération.",
+            "guide": "1. Désactivez votre antivirus\n2. Exécutez le loader en tant qu'administrateur\n3. Choisissez votre jeu (BO6 ou MW3)\n4. Configurez vos options et lancez",
+            "specs": "Windows 10/11, GPU GTX 1060 ou supérieur, 16GB RAM recommandé",
+            "videoUrl": "https://www.youtube.com/embed/VOTRE_ID_VIDEO2",
+            "badges": ["External", "MW3", "BO6", "Chair", "Multi-Game"]
+        },
+        {
+            "id": "LDV3",
+            "name": "BO6 EXTERNAL PROGRESS",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "custom",
+            "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair",
+            
+            "description": "External chair pour BO6 avec options de progression avancées. Mise à jour régulière pour garantir la compatibilité avec les derniers patchs.",
+            "guide": "1. Lancez en mode administrateur\n2. Attendez la synchronisation complète\n3. Configurez vos options Progress\n4. Lancez le jeu normalement",
+            "specs": "Windows 10/11, DirectX 12, RAM 8GB+, CPU i5/Ryzen 5 ou mieux",
+            "videoUrl": "https://www.youtube.com/embed/VOTRE_ID_VIDEO3",
+            "badges": ["External", "Progress", "BO6"]
+        }
+    ]
+}
