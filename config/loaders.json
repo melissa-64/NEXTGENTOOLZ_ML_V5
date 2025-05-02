@@ -8,6 +8,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "NGTZ Support Tool",
+            "name": "NGTZ Support Tool",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/ngtz_pb_gif.gif",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/ngtz_sup_tool_.png",
+            "productUrl": ""
         }
     ]
 }
