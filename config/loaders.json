@@ -116,6 +116,15 @@
             "status": "updating",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/valomenuaimbot.webp",
             "productUrl": ""
+        },
+        {
+            "id": "Rust",
+            "name": "Rust",
+            "categoryId": "rust",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/BitCheats.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/rustmenuaimbot.webp",
+            "productUrl": ""
         }
     ]
 }
