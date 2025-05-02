@@ -26,6 +26,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://nextgentoolz.mysellauth.com/product/bo6-external-day"
+        },
+        {
+            "id": "Cod Spoofer",
+            "name": "Cod Spoofer",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/COD_Spoofer.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
