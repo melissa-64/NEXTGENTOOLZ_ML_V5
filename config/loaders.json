@@ -53,6 +53,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Fortnite External",
+            "name": "Fortnite External",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/Fortnite_Ext.exe",
+            "status": "updating",
+            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/public.avif",
+            "productUrl": "https://nextgentoolz.mysellauth.com/product/fortnite-external"
         }
     ]
 }
