@@ -107,6 +107,15 @@
             "status": "updating",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/unlocker_box.gif",
             "productUrl": "https://nextgentoolz.mysellauth.com/product/unlock-all"
+        },
+        {
+            "id": "Valorant",
+            "name": "Valorant",
+            "categoryId": "valorant",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/BitCheats.exe",
+            "status": "updating",
+            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/valomenuaimbot.webp",
+            "productUrl": ""
         }
     ]
 }
