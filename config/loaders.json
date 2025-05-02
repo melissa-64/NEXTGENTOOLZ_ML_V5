@@ -71,6 +71,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Rage",
+            "name": "Rage",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/Rage.exe",
+            "status": "updating",
+            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/Rage.gif",
+            "productUrl": "https://nextgentoolz.mysellauth.com/product/rage"
         }
     ]
 }
