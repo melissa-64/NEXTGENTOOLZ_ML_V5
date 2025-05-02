@@ -44,6 +44,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/public_1.avif",
             "productUrl": "https://nextgentoolz.mysellauth.com/product/botlobby-manager"
+        },
+        {
+            "id": "Serial Checker",
+            "name": "Serial Checker",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/Mad_serial_checker.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
