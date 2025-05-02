@@ -17,6 +17,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/ngtz_sup_tool_.png",
             "productUrl": ""
+        },
+        {
+            "id": "external",
+            "name": "external",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/external.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://nextgentoolz.mysellauth.com/product/bo6-external-day"
         }
     ]
 }
