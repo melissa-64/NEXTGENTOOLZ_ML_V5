@@ -89,6 +89,15 @@
             "status": "updating",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/internal.gif",
             "productUrl": "https://nextgentoolz.mysellauth.com/product/internal"
+        },
+        {
+            "id": "Easy Gen",
+            "name": "Easy Gen",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/Easy_Gen.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/Easy_Gen.webp",
+            "productUrl": "https://nextgentoolz.mysellauth.com/product/account-gen"
         }
     ]
 }
