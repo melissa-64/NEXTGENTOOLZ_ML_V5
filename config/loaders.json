@@ -35,6 +35,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Lobby Manager",
+            "name": "Lobby Manager",
+            "categoryId": "others",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/Lobby-Manager.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/public_1.avif",
+            "productUrl": "https://nextgentoolz.mysellauth.com/product/botlobby-manager"
         }
     ]
 }
