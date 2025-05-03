@@ -73,6 +73,15 @@
       "isDefault": true
     },
     {
+      "id": "spoofer",
+      "name": "SPOOFER",
+      "brandColors": {
+        "primary": "#959595"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/spoofer-category.png",
+      "isDefault": true
+    },
+    {
       "id": "rust",
       "name": "Rust",
       "brandColors": {
