@@ -1,3 +1,14 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "announcement",
+            "title": "On Discord",
+            "message": "Fresh Steam only 0.10\u20ac",
+            "startDate": "2025-05-03T03:16:26Z",
+            "endDate": "2025-05-03T03:21:26Z",
+            "displayDuration": 5000,
+            "priority": "normal"
+        }
+    ]
 }
