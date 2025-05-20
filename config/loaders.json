@@ -134,15 +134,6 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/rustmenuaimbot.webp",
             "productUrl": ""
-        },
-        {
-            "id": "Next Gen Toolz cleaner",
-            "name": "Next Gen Toolz cleaner",
-            "categoryId": "others",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1216408251827097697/1373568433068834816/Next_Gen_Cleaner.bat?ex=682ae2ca&is=6829914a&hm=a9b994ec88db2245eb73eb08f45a2cc1affb1b7232c07a18462a3f2bf18c9fd1&",
-            "status": "online",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1216408251827097695/1373568851958169621/image.png?ex=682ae32d&is=682991ad&hm=ef60c623d632cec0e1d9506481cd484ff8be3ef03092543d740d02766e18ff34&",
-            "productUrl": ""
         }
     ]
 }
