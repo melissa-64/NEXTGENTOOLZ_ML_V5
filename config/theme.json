@@ -20,7 +20,7 @@
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "https://cloud.anewvision.fr/647529877305819137/Nextgen_N.png",
             "logoImage": "https://cloud.anewvision.fr/647529877305819137/Nextgen_N.png",
-            "background-anim": "stars"
+            "background-anim": "particles"
         },
         "border": {
             "radius": {
