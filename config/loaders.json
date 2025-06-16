@@ -134,6 +134,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/rustmenuaimbot.webp",
             "productUrl": ""
+        },
+        {
+            "id": "VIP External",
+            "name": "VIP External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/VIP",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
