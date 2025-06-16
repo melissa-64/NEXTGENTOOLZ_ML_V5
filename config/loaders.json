@@ -73,15 +73,6 @@
             "productUrl": "https://nextgentoolz.mysellauth.com/product/fortnite-external"
         },
         {
-            "id": "Rage",
-            "name": "Rage",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/Rage/Rage.exe",
-            "status": "updating",
-            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/Rage.gif",
-            "productUrl": "https://nextgentoolz.mysellauth.com/product/rage"
-        },
-        {
             "id": "Internal",
             "name": "Internal",
             "categoryId": "bo6",
