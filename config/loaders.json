@@ -37,15 +37,6 @@
             "productUrl": ""
         },
         {
-            "id": "external",
-            "name": "external",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/external.exe",
-            "status": "updating",
-            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/external.avif",
-            "productUrl": "https://nextgentoolz.mysellauth.com/product/bo6-external-day"
-        },
-        {
             "id": "Cod Spoofer",
             "name": "Cod Spoofer",
             "categoryId": "spoofers",
