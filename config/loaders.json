@@ -10,6 +10,15 @@
             "productUrl": "https://nextgentoolz.dev/product/andromida-external"
         },
         {
+            "id": "Progress",
+            "name": "Progress",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/Progress/Progress.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/progress_jpg.jpg",
+            "productUrl": ""
+        },
+        {
             "id": "zenith v2",
             "name": "zenith v2",
             "categoryId": "bo6",
@@ -25,15 +34,6 @@
             "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/NextGenToolz_-_Support_Tool.exe",
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/ngtz_sup_tool_.png",
-            "productUrl": ""
-        },
-        {
-            "id": "Progress",
-            "name": "Progress",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/Progress/Progress.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/647529877305819137/progress_jpg.jpg",
             "productUrl": ""
         },
         {
