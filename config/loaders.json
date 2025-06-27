@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Red External",
-            "name": "Red External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/REDEXT/Red_Chair.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "Andromida External",
             "name": "Andromida External",
             "categoryId": "bo6",
@@ -17,6 +8,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/andromida_external/andromida_gif.gif",
             "productUrl": "https://nextgentoolz.dev/product/andromida-external"
+        },
+        {
+            "id": "Red External",
+            "name": "Red External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/REDEXT/Red_Chair.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         },
         {
             "id": "Progress",
