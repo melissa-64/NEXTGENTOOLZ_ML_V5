@@ -1,6 +1,15 @@
 {
     "loaders": [
         {
+            "id": "Red External",
+            "name": "Red External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/REDEXT/Red_Chair.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
+        },
+        {
             "id": "Andromida External",
             "name": "Andromida External",
             "categoryId": "bo6",
@@ -115,15 +124,6 @@
             "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/ZENITHEXT/zenithext.exe",
             "status": "offline",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/Zenith",
-            "productUrl": ""
-        },
-        {
-            "id": "Red External",
-            "name": "Red External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/REDEXT/Red_Chair.exe",
-            "status": "online",
-            "imageUrl": "",
             "productUrl": ""
         },
         {
