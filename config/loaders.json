@@ -134,6 +134,15 @@
             "status": "custom",
             "imageUrl": "https://cloud.anewvision.fr/647529877305819137/unlocker_box.gif",
             "productUrl": "https://nextgentoolz.mysellauth.com/product/unlock-all"
+        },
+        {
+            "id": "Spoofer+Blocker",
+            "name": "Spoofer+Blocker",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://cloud.anewvision.fr/647529877305819137/spoofer/Spoofer-Blocker.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
