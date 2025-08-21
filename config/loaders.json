@@ -55,15 +55,6 @@
             "productUrl": ""
         },
         {
-            "id": "Fortnite External",
-            "name": "Fortnite External",
-            "categoryId": "fortnite",
-            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/Fortnite_Ext.exe",
-            "status": "offline",
-            "imageUrl": "https://api.cloud.anewvision.fr/647529877305819137/public.avif",
-            "productUrl": "https://nextgentoolz.mysellauth.com/product/fortnite-external"
-        },
-        {
             "id": "Easy Gen",
             "name": "Easy Gen",
             "categoryId": "others",
