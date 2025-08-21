@@ -82,15 +82,6 @@
             "productUrl": ""
         },
         {
-            "id": "Zentih External",
-            "name": "Zentih External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/ZENITHEXT/zenithext.exe",
-            "status": "offline",
-            "imageUrl": "https://api.cloud.anewvision.fr/647529877305819137/Zenith",
-            "productUrl": ""
-        },
-        {
             "id": "UnlockAll",
             "name": "UnlockAll",
             "categoryId": "bo6",
