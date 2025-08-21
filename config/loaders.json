@@ -19,15 +19,6 @@
             "productUrl": ""
         },
         {
-            "id": "Red External",
-            "name": "Red External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/REDEXT/Red_Chair.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "zenith v2",
             "name": "zenith v2",
             "categoryId": "bo6",
