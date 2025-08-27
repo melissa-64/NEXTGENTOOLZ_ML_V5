@@ -116,6 +116,22 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "trace-spoofer",
+            "name": "Trace Spoofer",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://sysinfo.gitbook.io/trace",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://nextgentoolz.dev/product/trace",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
