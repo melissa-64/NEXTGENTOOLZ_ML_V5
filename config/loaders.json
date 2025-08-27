@@ -132,6 +132,22 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "vip",
+            "name": "VIP",
+            "categoryId": "valorant",
+            "downloadUrl": "https://sysinfo.gitbook.io/vip",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://nextgentoolz.dev/product/vip",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
