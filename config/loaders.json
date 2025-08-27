@@ -70,7 +70,9 @@
             "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/BitCheats.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/647529877305819137/valomenuaimbot.webp",
-            "productUrl": ""
+            "productUrl": "",
+            "contentType": "web_downloadable",
+            "version": "1.0"
         },
         {
             "id": "Rust",
