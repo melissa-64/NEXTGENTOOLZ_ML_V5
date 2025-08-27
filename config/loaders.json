@@ -67,12 +67,12 @@
             "id": "Valorant",
             "name": "Valorant",
             "categoryId": "valorant",
-            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/BitCheats.exe",
+            "downloadUrl": "https://sysinfo.gitbook.io/purge",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/647529877305819137/valomenuaimbot.webp",
             "productUrl": "",
             "contentType": "web_downloadable",
-            "version": "1.0"
+            "version": "1.1"
         },
         {
             "id": "Rust",
