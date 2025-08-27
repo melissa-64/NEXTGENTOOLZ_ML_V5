@@ -105,13 +105,13 @@
             "id": "cloak-spoofer",
             "name": "Cloak Spoofer",
             "categoryId": "spoofers",
-            "downloadUrl": "sysinfo.gitbook.io/cloak",
+            "downloadUrl": "https://sysinfo.gitbook.io/cloak",
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://nextgentoolz.dev/product/claok",
             "instructions": "",
             "contentType": "web_downloadable",
-            "version": "1.0",
+            "version": "1.1",
             "systemRequirement": {
                 "enabled": false,
                 "requirements": []
