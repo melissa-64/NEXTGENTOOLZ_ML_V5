@@ -148,6 +148,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "pc-tweaker-(fps-boost)",
+            "name": "pc tweaker (fps boost)",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/you%20know%20what/pctweaks.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
