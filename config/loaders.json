@@ -75,15 +75,6 @@
             "version": "1.2"
         },
         {
-            "id": "Rust",
-            "name": "Rust",
-            "categoryId": "rust",
-            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/BitCheats.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/647529877305819137/rustmenuaimbot.webp",
-            "productUrl": ""
-        },
-        {
             "id": "UnlockAll",
             "name": "UnlockAll",
             "categoryId": "bo6",
