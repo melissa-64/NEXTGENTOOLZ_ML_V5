@@ -7,7 +7,9 @@
             "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/andromida_external/Silent_Launcher_6.9.25.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/647529877305819137/andromida_external/andromida_gif.gif",
-            "productUrl": "https://nextgentoolz.dev/product/andromida-external"
+            "productUrl": "https://nextgentoolz.dev/product/andromida-external",
+            "contentType": "web_downloadable",
+            "version": "1.0"
         },
         {
             "id": "Progress",
