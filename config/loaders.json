@@ -132,6 +132,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "v5-internal",
+            "name": "v5 internal",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/v5/t10_zlv2_client.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
